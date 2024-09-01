@@ -50,8 +50,8 @@ To set up BookBuddy on your local machine, follow these steps:
 **Clone the Repository:**
 
 ```bash
-git clone git@github.com:illinois-cs-coursework/sp24_cs498e2e-final_ksidana2.git
-cd sp24_cs498e2e-final_ksidana2
+git clone git@github.com:Khushisidanaa/bookBuddy.git
+cd bookBuddy
 ```
 
 ## Set Up a Python Virtual Environment
